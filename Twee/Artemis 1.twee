@@ -1,0 +1,130 @@
+:: StoryTitle
+Artemis
+
+
+:: StoryData
+{
+  "ifid": "99204CB3-6BC6-4FF6-8DEB-EDAA3FA0917B",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Artemis",
+  "zoom": 1
+}
+
+
+:: ( V puts down the book ) {"position":"692,237.5","size":"100,100"}
+D: Put your arms up and slowly turn around
+V: Oh, come on. Do we really need this formality--
+D: (clicks the safety on her gun) Do you need me to say it again?
+V: (V does what D says)
+D: What the fuck are you doing in my house?
+V: Di, it's just me--
+D: I said what the fuck are you doing in my house?
+V: Diana, I... 
+V: I need your help.
+D:...
+D: Who the fuck is Diana?
+
+[[V: ...What?]] (confused)
+[[V: Don't fuck with me]] (trying to see through her bullshit like Diana doesnt need to pretend that she isnt Diana) (i dont like this line rn)
+[[V: Oh, sorry, "Irene Baker"]] (might change name later) (only if you pick up the item that revieves her changed name)
+
+
+:: Artemis {"position":"342,126.5","size":"100,100"}
+Start the script!
+
+[test|test]
+
+[[Start|Diana Wakes Up]]
+
+
+
+:: Diana Wakes Up {"position":"733,44.5","size":"100,100"}
+(V is interputed with whatever action she is doing but Diana slowly walking towards her, holding a gun pointed at her)
+D: Put down my book(insert whatever item)
+V: Oh good, you're up--
+D: Put down the fucking book.
+V: ...
+ [[( V puts down the book )]]
+ [[V doesnt put down the book]]
+
+
+
+:: V doesnt put down the book {"position":"945,149.5","size":"100,100"}
+V doesnt put down the book
+V...
+D shoots you.
+
+
+
+:: V: ...What? {"position":"422,274.5","size":"100,100"}
+V: ...What?
+V: ... You're Diana?
+D: ...
+D: Sounds like you've broken into the wrong aparenment
+
+[[V: Maybe I have...]]
+[[V: I definently have not]]
+
+
+:: V: Don't fuck with me {"position":"750,484.5","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: V: I definently have not {"position":"581,431.5","size":"100,100"}
+V: I defeintly have not.
+V: How could I forgot a face like yours.
+D: Do I know you?
+V: You have to be joking.
+D: ...
+D: Diana just stares at you
+[[V: Well considering we used to be married for over a decade]]
+[[V: You really dont remember me?]]
+
+
+:: V: Maybe I have... {"position":"347,424.5","size":"100,100"}
+V:Maybe I have...
+D: Look, I don't know who you are and I don't care
+D: We can forgot the whole thing if you just leave.
+D: I wont even call the the cops (but i need a world buliding moment so i need another name)
+V: (you take a moment to think)
+(review all the clues you have) (maybe ill hgave to desigen to rooom first)
+[[V: Sorry to have wasted youre time]]
+[[V: You might be able to help me anyway]]
+[[V: On second thought, no, I'm right where I need to be]]
+
+
+
+:: V: Oh, sorry, "Irene Baker" {"position":"917,335.5","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: V: On second thought, no, I'm right where I need to be {"position":"497,574.5","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: V: Sorry to have wasted youre time {"position":"197,574.5","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: V: Well considering we used to be married for over a decade {"position":"617,581.5","size":"100,100"}
+V: Well consdering we used to be married for over ten years
+V: I feel thats suffiction reason to believe that you do now me
+D: ...
+D: Now I'm sure you've broken into the wrong house.
+V: You don't need to pretend anymore its me, Diana.
+V: I found you.
+D: Who the fuck are you?
+V: Do I really look that old?
+D: I really dont know who you are
+V: Vailski, you're wife, well ex-wife.
+D:
+
+
+
+:: V: You might be able to help me anyway {"position":"347,574.5","size":"100,100"}
+Double-click this passage to edit it.
+
+
+:: V: You really dont remember me? {"position":"737,604.5","size":"100,100"}
+Double-click this passage to edit it.
